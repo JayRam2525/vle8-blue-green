@@ -1,0 +1,10 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfstate.backup
+
+# AWS CLI installer
+awscliv2.zip
+aws/
